@@ -1,0 +1,11 @@
+{
+  "front": 100.0,
+  "left": 100.0,
+  "back": 100.0,
+  "right": 100.0,
+  "master_readings": {"front": 60.0, "left": 65.0, "back": 70.0, "right": 75.0},
+  "master_locked": true,
+  "master_locked_date": "2026-01-01 09:00:00",
+  "master_locked_by": "Demo Operator",
+  "master_lock_reason": "Synthetic example only"
+}
